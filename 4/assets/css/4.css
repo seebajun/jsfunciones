@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+}
+
+#div1{
+    height: 200px;
+    width: 200px;
+    background-color: #F2668B;
+}
+
+#div2{
+    height: 200px;
+    width: 200px;
+    background-color: #4C3959;
+}
+
+#div3{
+    height: 200px;
+    width: 200px;
+    background-color: #2198A6;
+}
+
+#div4{
+    height: 200px;
+    width: 200px;
+    background-color: #F2C777;
+}
+
+
